@@ -6,4 +6,30 @@
 
 <h2>🔧(/◕ヮ◕)/  Software/Environment:</h2>
 <h3 align="center"> Xampp 、 MySQL 、 Vscode 、 GitHub 、 Eclipse </h3>
-  
+
+> ## 專案分類 : 
+
+>> ### Angular:
+>>> * <a href="https://github.com/dragonleolin/KKBox_Angular"> KKBox接API練習 </a>
+>>> * <a href="https://github.com/dragonleolin/AngularProject"> 學習做Angular專案 </a>
+>>> * <a href="https://github.com/dragonleolin/Angular-BMICalculator"> 製作BMI計算器 </a>
+
+>> ### React:
+>>> * <a href="https://github.com/dragonleolin/pbook"> 大專成品 </a>
+>>> * <a href="https://github.com/dragonleolin/testKKBox"> KKBox接API練習 </a>
+>>> * <a href="https://github.com/dragonleolin/React_todoApp"> 練習todo </a>
+
+>> ### Java:
+>>> * <a href="https://github.com/dragonleolin/JAVA_data_JPA"> JAVA_data_JPA 寫API練習 </a>
+>>> * <a href="https://github.com/dragonleolin/spring-project"> 製作一個spring-project </a>
+
+>> ### PHP:
+>>> * <a href="https://github.com/dragonleolin/books"> 小專用PHP寫的 </a>
+>>> * <a href="https://github.com/dragonleolin/MyPHP"> PHP練習 </a>
+
+>> ### Other:
+>>> * <a href="https://github.com/dragonleolin/vue_vuex_exercise"> vue練習 </a>
+>>> * <a href="https://github.com/dragonleolin/hackmd-io-myNote"> 製作hackmd練習 </a>
+>>> * <a href="https://github.com/dragonleolin/travelInformation"> 六角學院作業1-旅遊資訊查詢 </a>
+>>> * <a href="https://github.com/dragonleolin/JQery"> JQery上課練習 </a>
+>>> * <a href="https://github.com/dragonleolin/python"> 用paython抓股票資訊 </a>
