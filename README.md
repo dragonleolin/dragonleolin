@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="60" height="60" margin="auto" align="center"/>
+<p align="center"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="60" height="60" /></p>
 <h1 align="center"> Hi 👋, I'm luke.  (*￣▽￣)/‧☆*"`'*-.,_,.-*'`"*-.,_☆</h1>
 <h2> •̀.̫•́✧  I am a front-end Developer of web. I love learing new technology and skills of web. </h2>
 <h2>📚 ლ(´ڡ`ლ)  Langues and Frameworks</h2> 
