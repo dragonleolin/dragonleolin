@@ -11,7 +11,7 @@
 > ## 專案分類 : 
 
 >> ### Angular:
->>> * <a href="https://github.com/dragonleolin/KKBox_Angular"> KKBox接API練習 </a>
+>>> * <a href="https://dragonleolin.github.io/KKBox_Angular/"> KKBox接API練習 </a>
 >>> * <a href="https://dragonleolin.github.io/AngularProject/"> 學習做Angular專案 </a>
 >>> * <a href="https://dragonleolin.github.io/Angular-BMICalculator/"> 製作BMI計算器 </a>
 
