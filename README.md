@@ -16,7 +16,7 @@
 >>> * <a href="https://dragonleolin.github.io/Angular-BMICalculator/"> 製作BMI計算器 </a>
 
 >> ### React:
->>> * <a href="https://github.com/dragonleolin/pbook"> 大專成品 </a>
+>>> * <a href="https://github.com/dragonleolin/pbook"> 購書網站(大專成品) </a>
 >>> * <a href="https://github.com/dragonleolin/testKKBox"> KKBox接API練習 </a>
 >>> * <a href="https://github.com/dragonleolin/React_todoApp"> 練習todo </a>
 
