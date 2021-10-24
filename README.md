@@ -10,6 +10,12 @@
 
 > ## 專案分類 : 
 
+>> ### 有畫面:
+>>> * <a href="https://dragonleolin.github.io/KKBox_Angular/"> KKBox音樂 </a>
+>>> * <a href="https://dragonleolin.github.io/Hex-webLayoutTraining-week4/"> 香水電商 </a>
+>>> * <a href="https://dragonleolin.github.io/Angular-BMICalculator/"> 製作BMI計算器 </a>
+>>> * 購書網站會員專區的影片介紹 https://drive.google.com/file/d/19oZb6IkIkLsormotHFJTH4pvS1XBxcce/view
+
 >> ### Angular:
 >>> * <a href="https://dragonleolin.github.io/KKBox_Angular/"> KKBox接API練習 </a>
 >>> * <a href="https://dragonleolin.github.io/AngularProject/"> 學習做Angular專案 </a>
