@@ -21,6 +21,7 @@
 >>> * <a href="https://dragonleolin.github.io/KKBox_Angular/"> KKBox接API練習 </a>
 >>> * <a href="https://dragonleolin.github.io/AngularProject/"> 學習做Angular專案 </a>
 >>> * <a href="https://dragonleolin.github.io/Angular-BMICalculator/"> 製作BMI計算器 </a>
+>>> * <a href="https://github.com/dragonleolin/Web_Angular/"> JAVA_data_JPA的前台畫面呈現 </a>
 
 >> ### React:
 >>> * <a href="https://github.com/dragonleolin/pbook"> 購書網站(大專成品) </a>
