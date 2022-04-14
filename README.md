@@ -16,6 +16,7 @@
 >>> * <a href="https://dragonleolin.github.io/Hex-webLayoutTraining-week4/"> 香水電商 </a>
 >>> * <a href="https://dragonleolin.github.io/Angular-BMICalculator/"> 製作BMI計算器 </a>
 >>> * 購書網站會員專區的影片介紹 https://drive.google.com/file/d/19oZb6IkIkLsormotHFJTH4pvS1XBxcce/view
+>>> * 水果購買網站影片 https://drive.google.com/file/d/1OnqpKa_qyQzdeA0Uas4FYnyL6pi9RD_t/view?usp=sharing
 
 >> ### Angular:
 >>> * <a href="https://dragonleolin.github.io/KKBox_Angular/"> KKBox接API練習 </a>
