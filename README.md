@@ -17,6 +17,9 @@
 * <a href="https://dragonleolin.github.io/Angular-BMICalculator/"> 製作BMI計算器 </a>
 * 購書網站會員專區的影片介紹 https://drive.google.com/file/d/19oZb6IkIkLsormotHFJTH4pvS1XBxcce/view
 
+### n8n
+* <a href="https://github.com/dragonleolin/AutomationNotifications"> 本地建立n8n服務，並實作去PTT省錢版抓取最新文章送到 Telegram Bot 的 workflow </a>
+
 ### 區塊鏈
 * <a href="https://github.com/dragonleolin/react_demo"> react的METAMASK錢包與智能合約實作 </a>
 
