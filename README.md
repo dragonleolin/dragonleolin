@@ -15,7 +15,11 @@
 * <a href="https://dragonleolin.github.io/KKBox_Angular/"> KKBox音樂 </a>
 * <a href="https://dragonleolin.github.io/Hex-webLayoutTraining-week4/"> 香水電商 </a>
 * <a href="https://dragonleolin.github.io/Angular-BMICalculator/"> 製作BMI計算器 </a>
+
 * 購書網站會員專區的影片介紹 https://drive.google.com/file/d/19oZb6IkIkLsormotHFJTH4pvS1XBxcce/view
+
+### 結合 Kafka 跟 Redis 還有 Telegram Bot
+* <a href="https://github.com/dragonleolin/JavaSpring"> 股票推播查詢價格跟股票走勢圖送到 Telegram Bot </a>
 
 ### n8n
 * <a href="https://github.com/dragonleolin/AutomationNotifications"> 本地建立n8n服務，並實作去PTT省錢版抓取最新文章送到 Telegram Bot 的 workflow </a>
