@@ -20,6 +20,15 @@
 
 ### 結合 Kafka 跟 Redis 還有 Telegram Bot
 * <a href="https://github.com/dragonleolin/JavaSpring"> 股票推播查詢價格跟股票走勢圖送到 Telegram Bot </a>
+* <a href="https://github.com/dragonleolin/Vue_StockApp"> 用 VUE 做成的畫面顯示 </a>
+
+### Flutter + JavaSpring 做成的寵物 APP
+* <a href="https://github.com/dragonleolin/PetApp_Flutter"> 用 Flutter 做成的畫面顯示 </a>
+* <a href="https://github.com/dragonleolin/PetApp_JavaSpring"> JavaSpring 做的功能，有登入、註冊、新增寵物等等 </a>
+
+### 基礎架構模組
+* <a href="https://github.com/dragonleolin/LoginSystem_flutter"> 用 flutter 做的登錄系統基底，可以啟動後進行登陸 </a>
+* <a href="https://github.com/dragonleolin/SubNotifySystem"> 用來當訂閱通知系統的基礎功能，用 Java Spring 架構，使用 Mavern </a>
 
 ### n8n
 * <a href="https://github.com/dragonleolin/AutomationNotifications"> 本地建立n8n服務，並實作去PTT省錢版抓取最新文章送到 Telegram Bot 的 workflow </a>
