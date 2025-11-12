@@ -13,6 +13,7 @@
 ### 影片:
 * <a href="https://drive.google.com/file/d/19oZb6IkIkLsormotHFJTH4pvS1XBxcce/view"> 購書網站會員專區的影片介紹 </a> 
 * <a href="https://drive.google.com/file/d/1dxKZMmZFGS8JgeZMPoBk-7kyjmcG7PZF/view?usp=drive_link"> 股票系統的影片， AI 機器人聊天功能 </a>
+* <a href="https://drive.google.com/file/d/1xXaL4NRMT4G6DxVmeOopVNWQ8s06Tq4Q/view?usp=drive_link"> 區塊鏈系統，包含註冊登入跟升級會員 </a>
 
 ### 有畫面:
 * <a href="https://dragonleolin.github.io/TravelWeb_Angular/home/"> 觀光旅遊 </a>
