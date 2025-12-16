@@ -16,7 +16,6 @@
 * <a href="https://drive.google.com/file/d/1xXaL4NRMT4G6DxVmeOopVNWQ8s06Tq4Q/view?usp=drive_link"> 區塊鏈系統，包含註冊登入跟升級會員 </a>
 
 ### 有畫面:
-* <a href="https://dragonleolin.github.io/TravelWeb_Angular/home/"> 觀光旅遊 </a>
 * <a href="https://dragonleolin.github.io/Hex-webLayoutTraining-week4/"> 香水電商 </a>
 * <a href="https://dragonleolin.github.io/Angular-BMICalculator/"> 製作BMI計算器 </a>
 
