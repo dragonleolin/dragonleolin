@@ -18,6 +18,7 @@
 ### 有畫面:
 * <a href="https://dragonleolin.github.io/Hex-webLayoutTraining-week4/"> 香水電商 </a>
 * <a href="https://dragonleolin.github.io/Angular-BMICalculator/"> 製作BMI計算器 </a>
+* <a href="https://dragonleolin.github.io/dividend-record/"> 紀錄股票股息 </a>
 
 ### 結合 Java Spring boot 跟 Redis 還有 Telegram Bot
 * 使用到的技術有 Java Spring boot 、 Redis 、 Telegram 、 AI Chat
