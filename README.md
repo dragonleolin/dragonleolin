@@ -14,7 +14,7 @@
 * <a href="https://drive.google.com/file/d/19oZb6IkIkLsormotHFJTH4pvS1XBxcce/view"> 購書網站會員專區的影片介紹 </a> 
 * <a href="https://drive.google.com/file/d/1dxKZMmZFGS8JgeZMPoBk-7kyjmcG7PZF/view?usp=drive_link"> 股票系統的影片， AI 機器人聊天功能 </a>
 * <a href="https://drive.google.com/file/d/1xXaL4NRMT4G6DxVmeOopVNWQ8s06Tq4Q/view?usp=drive_link"> 區塊鏈系統，包含註冊登入跟升級會員 </a>
-* <a href="https://drive.google.com/file/d/1xXaL4NRMT4G6DxVmeOopVNWQ8s06Tq4Q/view?usp=drive_link"> 一個遊戲化、復古風格的股票配息追蹤網頁應用程式，整合 Google Sheets 作為資料庫 </a>
+* <a href="https://drive.google.com/file/d/1obnagIJde2HvxnOGBRBRXSH686ASi-KV/view?usp=drive_link"> 一個遊戲化、復古風格的股票配息追蹤網頁應用程式，整合 Google Sheets 作為資料庫 </a>
 
 ### 有畫面:
 * <a href="https://dragonleolin.github.io/Hex-webLayoutTraining-week4/"> 香水電商 </a>
