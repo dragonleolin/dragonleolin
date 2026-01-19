@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Luke (DragonLeo)</h1>
+  <h1>Hi 👋, I'm Luke </h1>
   <h3>Senior Java Developer | FinTech Experience | AI & Cloud Enthusiast</h3>
   
   <p>
@@ -32,7 +32,19 @@
 
 ## 🚀 Key Backend & AI Projects (核心後端與 AI 專案)
 
-### 1. 📈 Real-time Stock Notification System (股票推播與 AI 分析)
+### 1. 📊 Trade Command Center (交易管理中控台)
+> **關鍵技術**: `Spring Boot` `Vue.js` `RESTful API` `Data Visualization`
+
+專為交易資料管理設計的戰情室儀表板，提供直觀的數據可視化與操作介面。
+* **數據可視化 (Data Visualization)**：整合圖表介面呈現交易紀錄與關鍵指標 (KPI)，協助營運人員快速掌握數據概況。
+* **管理後台架構 (Admin Dashboard)**：設計前後端分離的中控台架構，提供清晰的交易查詢與管理功能。
+* **全端整合**：後端採用 Spring Boot 處理核心業務邏輯，前端使用 Vue 構建現代化響應式介面。
+
+🎥 **Demo Video / Repo:**
+* [交易中控台功能演示影片](https://drive.google.com/file/d/1zupVp4J6tyyQds9JMFiraF2vhCBwLXJ8/view?usp=drive_link)
+* [Code Repository](https://github.com/dragonleolin/trade-command-center)
+
+### 2. 📈 Real-time Stock Notification System (股票推播與 AI 分析)
 > **關鍵技術**: `Java Spring Boot` `Redis` `Telegram API` `OpenAI API` `Vue.js`
 
 針對股票市場設計的即時監控系統，解決使用者無法隨時盯盤的痛點。
@@ -45,7 +57,7 @@
 * [股票系統操作演示 & AI 機器人聊天功能](https://drive.google.com/file/d/1dxKZMmZFGS8JgeZMPoBk-7kyjmcG7PZF/view?usp=drive_link)
 * [Code Repo](https://github.com/dragonleolin/JavaSpring)
 
-### 2. 📱 Full-Stack Pet Management App (跨平台寵物管理)
+### 3. 📱 Full-Stack Pet Management App (跨平台寵物管理)
 > **關鍵技術**: `Flutter` `Spring Boot` `Spring Security` `JWT`
 
 * **安全機制**：後端實作 **Spring Security + JWT** 進行無狀態（Stateless）身分驗證。
@@ -56,7 +68,7 @@
 
 ## 💻 Web3 & Creative Web Applications (精選全端與創意作品)
 
-### 3. ⛓️ Blockchain Membership System (區塊鏈會員系統)
+### 4. ⛓️ Blockchain Membership System (區塊鏈會員系統)
 > **關鍵技術**: `React` `Web3.js` `Smart Contract`
 
 模擬去中心化應用 (DApp) 的會員機制。
@@ -66,7 +78,7 @@
 🎥 **Demo Video:**
 * [區塊鏈系統演示 (註冊/登入/升級)](https://drive.google.com/file/d/1xXaL4NRMT4G6DxVmeOopVNWQ8s06Tq4Q/view?usp=drive_link)
 
-### 4. 👾 Gamified Stock Dividend Tracker (遊戲化股息追蹤)
+### 5. 👾 Gamified Stock Dividend Tracker (遊戲化股息追蹤)
 > **關鍵技術**: `JavaScript` `Google Sheets API` `Retro UI`
 
 一個採用復古像素風格（Pixel Art）設計的財務追蹤工具，將枯燥的記帳遊戲化。
@@ -77,7 +89,7 @@
 * [復古風股息追蹤網頁演示](https://drive.google.com/file/d/1obnagIJde2HvxnOGBRBRXSH686ASi-KV/view?usp=drive_link)
 * [Live Demo Link](https://dragonleolin.github.io/dividend-record/)
 
-### 5. 📚 E-Bookstore Member Portal (購書網站會員專區)
+### 6. 📚 E-Bookstore Member Portal (購書網站會員專區)
 > **關鍵技術**: `Web Development` `MVC Pattern`
 
 完整的電商會員功能實作。
