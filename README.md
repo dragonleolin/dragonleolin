@@ -1,69 +1,119 @@
-<p align="center"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="60" height="60" /></p>
-<h1 align="center"> Hi 👋, I'm luke.  (*￣▽￣)/‧☆*"`'*-.,_,.-*'`"*-.,_☆</h1>
-<h2> •̀.̫•́✧  I am a front-end Developer of web. I love learing new technology and skills of web. </h2>
-<h2>📚 ლ(´ڡ`ლ)  Langues and Frameworks</h2> 
-<h3 margin="50px 0">React 、 Angular 、 Bootstrap 、 CSS3 、 HTML5 、 JAVA 、 javascript 、 typescript 、 mysql 、 php </h3>
-<h3 margin="50px 0">sass 、 nodejs 、  express </h3>
-</n>
-<h2>🔧(/◕ヮ◕)/  Software/Environment:</h2>
-<h3 align="center"> Xampp 、 MySQL 、 Vscode 、 GitHub 、 Eclipse </h3>
+<div align="center">
+  <h1>Hi 👋, I'm Luke (DragonLeo)</h1>
+  <h3>Senior Java Developer | FinTech Experience | AI & Cloud Enthusiast</h3>
+  
+  <p>
+    擁有 5 年以上軟體開發經驗，專精於 <b>Java Backend (Spring Boot)</b> 與 <b>微服務架構</b>。
+    <br>
+    目前專注於將 <b>Generative AI</b> 整合至企業應用，並致力於高併發系統的效能優化。
+    <br>
+    曾派駐於 <b>台新銀行</b>，具備金融級資安開發規範與高可用性系統維護經驗。
+  </p>
 
-<h1 align="center"> 專案分類 
+  <p>
+    <a href="mailto:你的email@example.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" alt="Email" />
+    </a>
+  </p>
+</div>
 
-### 影片:
-* <a href="https://drive.google.com/file/d/19oZb6IkIkLsormotHFJTH4pvS1XBxcce/view"> 購書網站會員專區的影片介紹 </a> 
-* <a href="https://drive.google.com/file/d/1dxKZMmZFGS8JgeZMPoBk-7kyjmcG7PZF/view?usp=drive_link"> 股票系統的影片， AI 機器人聊天功能 </a>
-* <a href="https://drive.google.com/file/d/1xXaL4NRMT4G6DxVmeOopVNWQ8s06Tq4Q/view?usp=drive_link"> 區塊鏈系統，包含註冊登入跟升級會員 </a>
-* <a href="https://drive.google.com/file/d/1obnagIJde2HvxnOGBRBRXSH686ASi-KV/view?usp=drive_link"> 一個遊戲化、復古風格的股票配息追蹤網頁應用程式，整合 Google Sheets 作為資料庫 </a>
+---
 
-### 有畫面:
-* <a href="https://dragonleolin.github.io/Hex-webLayoutTraining-week4/"> 香水電商 </a>
-* <a href="https://dragonleolin.github.io/Angular-BMICalculator/"> 製作BMI計算器 </a>
-* <a href="https://dragonleolin.github.io/dividend-record/"> 紀錄股票股息 </a>
+## 🛠️ Technical Stack
 
-### 結合 Java Spring boot 跟 Redis 還有 Telegram Bot
-* 使用到的技術有 Java Spring boot 、 Redis 、 Telegram 、 AI Chat
-* <a href="https://github.com/dragonleolin/JavaSpring"> 股票推播查詢價格跟股票走勢圖送到 Telegram Bot </a>
-* <a href="https://github.com/dragonleolin/Vue_StockApp"> 用 VUE 做成的畫面顯示 </a> 
+| Category | Technologies |
+| --- | --- |
+| **Backend** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![MyBatis](https://img.shields.io/badge/-MyBatis-c60f1b?style=flat-square) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Database & Cache** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![H2](https://img.shields.io/badge/-H2-blue?style=flat-square) |
+| **AI & Automation** | ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-FF6584?style=flat-square&logo=n8n&logoColor=white) ![Telegram Bot](https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white) |
+| **Frontend & Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 
-### Flutter + JavaSpring 做成的寵物 APP
-* <a href="https://github.com/dragonleolin/PetApp_Flutter"> 用 Flutter 做成的畫面顯示 </a>
-* <a href="https://github.com/dragonleolin/PetApp_JavaSpring"> JavaSpring 做的功能，有登入、註冊、新增寵物等等 </a>
+---
 
-### 基礎架構模組
-* <a href="https://github.com/dragonleolin/LoginSystem_flutter"> 用 flutter 做的登錄系統基底，可以啟動後進行登陸 </a>
-* <a href="https://github.com/dragonleolin/SubNotifySystem"> 用來當訂閱通知系統的基礎功能，用 Java Spring 架構，使用 Mavern </a>
+## 🚀 Key Backend & AI Projects (核心後端與 AI 專案)
 
-### n8n
-* <a href="https://github.com/dragonleolin/AutomationNotifications"> 本地建立n8n服務，並實作去PTT省錢版抓取最新文章送到 Telegram Bot 的 workflow </a>
+### 1. 📈 Real-time Stock Notification System (股票推播與 AI 分析)
+> **關鍵技術**: `Java Spring Boot` `Redis` `Telegram API` `OpenAI API` `Vue.js`
 
-### 區塊鏈
-* <a href="https://github.com/dragonleolin/react_demo"> react的METAMASK錢包與智能合約實作 </a>
+針對股票市場設計的即時監控系統，解決使用者無法隨時盯盤的痛點。
+* **後端架構**：使用 Spring Boot 構建 RESTful API，串接台股即時報價。
+* **效能優化**：引入 **Redis** 進行報價緩存（Cache），降低資料庫讀取壓力，模擬高併發場景處理。
+* **AI 整合**：整合 LLM 模型，提供基本的個股 AI 趨勢分析建議。
+* **即時推播**：透過 Telegram Bot Webhook 實現即時股價警示通知。
 
-### Angular:
-* <a href="https://dragonleolin.github.io/KKBox_Angular/"> KKBox接API練習 </a>
-* <a href="https://dragonleolin.github.io/AngularProject/"> 學習做Angular專案 </a>
-* <a href="https://dragonleolin.github.io/Angular-BMICalculator/"> 製作BMI計算器 </a>
-* <a href="https://github.com/dragonleolin/Web_Angular/"> JAVA_data_JPA的前台畫面呈現 </a>
+🎥 **Demo Videos:**
+* [股票系統操作演示 & AI 機器人聊天功能](https://drive.google.com/file/d/1dxKZMmZFGS8JgeZMPoBk-7kyjmcG7PZF/view?usp=drive_link)
+* [Code Repo](https://github.com/dragonleolin/JavaSpring)
 
-### React:
-* <a href="https://github.com/dragonleolin/pbook"> 購書網站(大專成品) </a>
-* <a href="https://github.com/dragonleolin/testKKBox"> KKBox接API練習 </a>
-* <a href="https://github.com/dragonleolin/React_todoApp"> 練習todo </a>
+### 2. 📱 Full-Stack Pet Management App (跨平台寵物管理)
+> **關鍵技術**: `Flutter` `Spring Boot` `Spring Security` `JWT`
 
-### Java:
-* <a href="https://github.com/dragonleolin/SpringBoot-MyBatis"> SpringBoot + MyBatis + DB </a>
-* <a href="https://github.com/dragonleolin/java_JPA_H2DB"> Spring Simple Lab </a>
-* <a href="https://github.com/dragonleolin/JAVA_data_JPA"> JAVA_data_JPA 寫API練習 </a>
-* <a href="https://github.com/dragonleolin/spring-project"> 製作一個spring-project </a>
+* **安全機制**：後端實作 **Spring Security + JWT** 進行無狀態（Stateless）身分驗證。
+* **前端開發**：使用 Flutter 進行跨平台開發，展示全端交付能力。
+* [Repo: Flutter Frontend](https://github.com/dragonleolin/PetApp_Flutter) / [Repo: Spring Boot Backend](https://github.com/dragonleolin/PetApp_JavaSpring)
 
-### PHP:
-* <a href="https://github.com/dragonleolin/books"> 小專用PHP寫的 </a>
-* <a href="https://github.com/dragonleolin/MyPHP"> PHP練習 </a>
+---
 
-### Other:
-> * <a href="https://github.com/dragonleolin/vue_vuex_exercise"> vue練習 </a>
-> * <a href="https://github.com/dragonleolin/hackmd-io-myNote"> 製作hackmd練習 </a>
-> * <a href="https://github.com/dragonleolin/travelInformation"> 六角學院作業1-旅遊資訊查詢 </a>
-> * <a href="https://github.com/dragonleolin/JQery"> JQery上課練習 </a>
-> * <a href="https://github.com/dragonleolin/python"> 用paython抓股票資訊 </a>
+## 💻 Web3 & Creative Web Applications (精選全端與創意作品)
+
+### 3. ⛓️ Blockchain Membership System (區塊鏈會員系統)
+> **關鍵技術**: `React` `Web3.js` `Smart Contract`
+
+模擬去中心化應用 (DApp) 的會員機制。
+* **功能亮點**：實作使用者註冊、登入驗證以及會員等級升級功能。
+* **技術實踐**：前端 React 整合錢包（Wallet）互動，展示對 Web3 架構的理解。
+
+🎥 **Demo Video:**
+* [區塊鏈系統演示 (註冊/登入/升級)](https://drive.google.com/file/d/1xXaL4NRMT4G6DxVmeOopVNWQ8s06Tq4Q/view?usp=drive_link)
+
+### 4. 👾 Gamified Stock Dividend Tracker (遊戲化股息追蹤)
+> **關鍵技術**: `JavaScript` `Google Sheets API` `Retro UI`
+
+一個採用復古像素風格（Pixel Art）設計的財務追蹤工具，將枯燥的記帳遊戲化。
+* **資料庫創新**：整合 **Google Sheets API** 作為輕量級後端資料庫，實現 CRUD 操作。
+* **介面設計**：客製化復古介面，提供獨特的使用者體驗。
+
+🎥 **Demo Video:**
+* [復古風股息追蹤網頁演示](https://drive.google.com/file/d/1obnagIJde2HvxnOGBRBRXSH686ASi-KV/view?usp=drive_link)
+* [Live Demo Link](https://dragonleolin.github.io/dividend-record/)
+
+### 5. 📚 E-Bookstore Member Portal (購書網站會員專區)
+> **關鍵技術**: `Web Development` `MVC Pattern`
+
+完整的電商會員功能實作。
+* **功能**：包含完整的會員註冊、資料修改、訂單查詢等功能流程。
+* **展示重點**：呈現清晰的前後端互動邏輯與使用者流程設計。
+
+🎥 **Demo Video:**
+* [購書網站會員專區介紹](https://drive.google.com/file/d/19oZb6IkIkLsormotHFJTH4pvS1XBxcce/view)
+
+---
+
+## ⚙️ Automation & Tools
+
+### 🤖 Automation Workflow with n8n
+> **關鍵技術**: `n8n` `Docker` `Web Scraping`
+
+* **功能**：自動監控 PTT 省錢版 (Lifeismoney)，過濾特定關鍵字並發送 Telegram 通知。
+* [Repo Link](https://github.com/dragonleolin/AutomationNotifications)
+
+---
+
+## 📂 Other Projects & Experiments
+<details>
+<summary><b>點擊展開查看更多過往練習 (Angular, PHP, Legacy)</b></summary>
+
+### Angular Practice
+* **Perfume E-commerce Layout**: [Demo](https://dragonleolin.github.io/Hex-webLayoutTraining-week4/)
+* **KKBox API Integration**: [Repo](https://dragonleolin.github.io/KKBox_Angular/)
+* **BMI Calculator**: [Demo](https://dragonleolin.github.io/Angular-BMICalculator/)
+
+### PHP & Others
+* **Simple Book Store (PHP)**: [Repo](https://github.com/dragonleolin/books)
+* **React Todo App**: [Repo](https://github.com/dragonleolin/React_todoApp)
+</details>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=dragonleolin&show_icons=true&theme=radical" alt="DragonLeo's Stats" />
+</div>
