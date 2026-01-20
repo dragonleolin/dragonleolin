@@ -3,15 +3,15 @@
   <h3>Senior Java Developer | FinTech Experience | AI & Cloud Enthusiast</h3>
   
   <p>
-    擁有 5 年以上軟體開發經驗，專精於 <b>Java Backend (Spring Boot)</b> 與 <b>微服務架構</b>。
+    擁有 5 年以上軟體開發經驗，核心技術為 <b>Java Backend (Spring Boot)</b>
     <br>
-    目前專注於將 <b>Generative AI</b> 整合至企業應用，並致力於高併發系統的效能優化。
+    目前負責 <b>台新銀行行動網銀</b> 系統開發，具備嚴謹的金融級資安規範與高可用性維護經驗
     <br>
-    曾派駐於 <b>台新銀行</b>，具備金融級資安開發規範與高可用性系統維護經驗。
+    工作之餘積極研究 <b>Generative AI</b> 技術應用，並持續鑽研高併發架構與效能優化之解決方案
   </p>
 
   <p>
-    <a href="mailto:你的email@example.com">
+    <a href="mailto:wei.che0812@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" alt="Email" />
     </a>
   </p>
