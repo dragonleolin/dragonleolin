@@ -32,13 +32,13 @@
 
 ## 🚀 Key Backend & AI Projects (核心後端與 AI 專案)
 
-### 1. 📊 Trade Command Center (交易管理中控台)
-> **關鍵技術**: `Spring Boot` `Vue.js` `RESTful API` `Data Visualization`
+### 1. 📊 Investment Strategy Command Center (投資策略戰情室)
+> **關鍵技術**: `Vue.js` `Interactive UI` `Data Binding`
 
-專為交易資料管理設計的戰情室儀表板，提供直觀的數據可視化與操作介面。
-* **數據可視化 (Data Visualization)**：整合圖表介面呈現交易紀錄與關鍵指標 (KPI)，協助營運人員快速掌握數據概況。
-* **管理後台架構 (Admin Dashboard)**：設計前後端分離的中控台架構，提供清晰的交易查詢與管理功能。
-* **全端整合**：後端採用 Spring Boot 處理核心業務邏輯，前端使用 Vue 構建現代化響應式介面。
+專為個人投資者設計的策略管理儀表板 (Dashboard)。
+* **策略紀錄 (Strategy Management)**：提供使用者自定義交易策略、記錄持倉成本與設定停損停利目標。
+* **動態視覺化 (Dynamic Visualization)**：前端實作即時 ROI 計算與風險顏色標記，數據呈現一目了然。
+* **遊戲化風格 (Gamified UI)**：結合 Cyberpunk 視覺元素，打造沉浸式的戰情室操作體驗，展示前端切版與複雜資料綁定能力。
 
 🎥 **Demo Video / Repo:**
 * [交易中控台功能演示影片](https://drive.google.com/file/d/1zupVp4J6tyyQds9JMFiraF2vhCBwLXJ8/view?usp=drive_link)
