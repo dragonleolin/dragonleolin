@@ -32,17 +32,15 @@
 
 ## 🚀 Key Backend & AI Projects (核心後端與 AI 專案)
 
-### 1. 📊 Investment Strategy Command Center (投資策略戰情室)
-> **關鍵技術**: `Vue.js` `Interactive UI` `Data Binding`
+### 1. ⛓️ Blockchain Membership System (區塊鏈會員系統)
+> **關鍵技術**: `React` `Web3.js` `Smart Contract`
 
-專為個人投資者設計的策略管理儀表板 (Dashboard)。
-* **策略紀錄 (Strategy Management)**：提供使用者自定義交易策略、記錄持倉成本與設定停損停利目標。
-* **動態視覺化 (Dynamic Visualization)**：前端實作即時 ROI 計算與風險顏色標記，數據呈現一目了然。
-* **遊戲化風格 (Gamified UI)**：結合 Cyberpunk 視覺元素，打造沉浸式的戰情室操作體驗，展示前端切版與複雜資料綁定能力。
+模擬去中心化應用 (DApp) 的會員機制。
+* **功能亮點**：實作使用者註冊、登入驗證以及會員等級升級功能。
+* **技術實踐**：前端 React 整合錢包（Wallet）互動，展示對 Web3 架構的理解。
 
-🎥 **Demo Video / Repo:**
-* [交易中控台功能演示影片](https://drive.google.com/file/d/1zupVp4J6tyyQds9JMFiraF2vhCBwLXJ8/view?usp=drive_link)
-* [Code Repository](https://github.com/dragonleolin/trade-command-center)
+🎥 **Demo Video:**
+* [區塊鏈系統演示 (註冊/登入/升級)](https://drive.google.com/file/d/1xXaL4NRMT4G6DxVmeOopVNWQ8s06Tq4Q/view?usp=drive_link)
 
 ### 2. 📈 Real-time Stock Notification System (股票推播與 AI 分析)
 > **關鍵技術**: `Java Spring Boot` `Redis` `Telegram API` `OpenAI API` `Vue.js`
@@ -68,15 +66,18 @@
 
 ## 💻 Web3 & Creative Web Applications (精選全端與創意作品)
 
-### 4. ⛓️ Blockchain Membership System (區塊鏈會員系統)
-> **關鍵技術**: `React` `Web3.js` `Smart Contract`
+### 4. 📊 Investment Strategy Command Center (投資策略戰情室)
+> **關鍵技術**: `Vue.js` `Interactive UI` `Data Binding`
 
-模擬去中心化應用 (DApp) 的會員機制。
-* **功能亮點**：實作使用者註冊、登入驗證以及會員等級升級功能。
-* **技術實踐**：前端 React 整合錢包（Wallet）互動，展示對 Web3 架構的理解。
+專為個人投資者設計的策略管理儀表板 (Dashboard)。
+* **策略紀錄 (Strategy Management)**：提供使用者自定義交易策略、記錄持倉成本與設定停損停利目標。
+* **動態視覺化 (Dynamic Visualization)**：前端實作即時 ROI 計算與風險顏色標記，數據呈現一目了然。
+* **遊戲化風格 (Gamified UI)**：結合 Cyberpunk 視覺元素，打造沉浸式的戰情室操作體驗，展示前端切版與複雜資料綁定能力。
 
-🎥 **Demo Video:**
-* [區塊鏈系統演示 (註冊/登入/升級)](https://drive.google.com/file/d/1xXaL4NRMT4G6DxVmeOopVNWQ8s06Tq4Q/view?usp=drive_link)
+🎥 **Demo Video / Repo:**
+* [交易中控台功能演示影片](https://drive.google.com/file/d/1zupVp4J6tyyQds9JMFiraF2vhCBwLXJ8/view?usp=drive_link)
+* [Code Repository](https://github.com/dragonleolin/trade-command-center)
+
 
 ### 5. 👾 Gamified Stock Dividend Tracker (遊戲化股息追蹤)
 > **關鍵技術**: `JavaScript` `Google Sheets API` `Retro UI`
@@ -125,7 +126,3 @@
 * **React Todo App**: [Repo](https://github.com/dragonleolin/React_todoApp)
 </details>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=dragonleolin&show_icons=true&theme=radical" alt="DragonLeo's Stats" />
-</div>
