@@ -7,7 +7,7 @@
     <br>
     目前負責 <b>台新銀行行動網銀</b> 系統開發，具備嚴謹的金融級資安規範與高可用性維護經驗
     <br>
-    工作之餘積極研究 <b>Generative AI</b> 技術應用，並持續鑽研高併發架構與效能優化之解決方案
+    工作之餘積極研究 <b>Generative AI</b> 技術應用，並持續研究相關技術及生活應用
   </p>
 
   <p>
@@ -32,22 +32,23 @@
 
 ## 🚀 Key Backend & AI Projects (核心後端與 AI 專案)
 
-### 1. ⛓️ Blockchain Membership System (區塊鏈會員系統)
-> **關鍵技術**: `React` `Web3.js` `Smart Contract`
+### 1. ⛓️ Blockchain Membership System (區塊鏈數據分析 APP)
+> **關鍵技術**: `Java Spring Boot` `Redis` `Flutter`
 
-模擬去中心化應用 (DApp) 的會員機制。
+區塊鏈數據分析 APP
 * **功能亮點**：實作使用者註冊、登入驗證以及會員等級升級功能。
-* **技術實踐**：前端 React 整合錢包（Wallet）互動，展示對 Web3 架構的理解。
+* **設計方式**：這裡設計了一套評分模型，會即時解析原始數據，並計算出『趨勢』、『動能』、『波動』與『量能』四大維度，最後加權整合成一個**『綜合信心分數』**，這就是提供給用戶判斷市場趨勢的關鍵指標。
+* **技術實踐**： Python 爬蟲完成技術指標分析後，擔任 Producer 的角色，將數據打包成 JSON 格式發佈到 Kafka 的 Topic (ryoken.analysis.v1)。 使用 Kafka 的目的是為了讓爬蟲與後端服務 解耦 (Decoupling)，並提供緩衝機制，即使爬蟲送出大量數據，後端也能依照自己的節奏處理，會先把收到的數值存入 Redis 內。
 
 🎥 **Demo Video:**
-* [區塊鏈系統演示 (註冊/登入/升級)](https://drive.google.com/file/d/1xXaL4NRMT4G6DxVmeOopVNWQ8s06Tq4Q/view?usp=drive_link)
+* [區塊鏈數據分析演示 (註冊/登入/升級)](https://drive.google.com/file/d/1xXaL4NRMT4G6DxVmeOopVNWQ8s06Tq4Q/view?usp=drive_link)
 
 ### 2. 📈 Real-time Stock Notification System (股票推播與 AI 分析)
 > **關鍵技術**: `Java Spring Boot` `Redis` `Telegram API` `OpenAI API` `Vue.js`
 
-針對股票市場設計的即時監控系統，解決使用者無法隨時盯盤的痛點。
-* **後端架構**：使用 Spring Boot 構建 RESTful API，串接台股即時報價。
-* **效能優化**：引入 **Redis** 進行報價緩存（Cache），降低資料庫讀取壓力，模擬高併發場景處理。
+針對股票市場設計的即時監控系統，讓使用者可以跟 AI 對話，並圖表化股價的變動。
+* **後端架構**：使用 Spring Boot 構建 RESTful API，串接台股即時查詢股價以及 KD 值。
+* **效能優化**：引入 **Redis** 進行查詢緩存（Cache），降低資料庫讀取壓力，並產生圖表顯示。
 * **AI 整合**：整合 LLM 模型，提供基本的個股 AI 趨勢分析建議。
 * **即時推播**：透過 Telegram Bot Webhook 實現即時股價警示通知。
 
@@ -100,6 +101,15 @@
 🎥 **Demo Video:**
 * [購書網站會員專區介紹](https://drive.google.com/file/d/19oZb6IkIkLsormotHFJTH4pvS1XBxcce/view)
 
+### 7. ⛓️ Blockchain Membership System (區塊鏈會員系統)
+> **關鍵技術**: `React` `Web3.js` `Smart Contract`
+
+模擬去中心化應用 (DApp) 的會員機制。
+* **功能亮點**：實作使用者註冊、登入驗證以及會員等級升級功能。
+* **技術實踐**：前端 React 整合錢包（Wallet）互動，展示對 Web3 架構的理解。
+
+🎥 **Demo Video:**
+* [區塊鏈系統演示 (註冊/登入/升級)]([https://drive.google.com/file/d/1xXaL4NRMT4G6DxVmeOopVNWQ8s06Tq4Q/view?usp=drive_link](https://drive.google.com/file/d/1PYOFa4WmfoT_Dc8joEFvNQkxhNDNJo9w/view?usp=drive_link))
 ---
 
 ## ⚙️ Automation & Tools
