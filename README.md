@@ -109,7 +109,8 @@
 * **技術實踐**：前端 React 整合錢包（Wallet）互動，展示對 Web3 架構的理解。
 
 🎥 **Demo Video:**
-* [區塊鏈系統演示 (註冊/登入/升級)]([https://drive.google.com/file/d/1xXaL4NRMT4G6DxVmeOopVNWQ8s06Tq4Q/view?usp=drive_link](https://drive.google.com/file/d/1PYOFa4WmfoT_Dc8joEFvNQkxhNDNJo9w/view?usp=drive_link))
+* [區塊鏈系統演示 (註冊/登入/升級)](https://drive.google.com/file/d/1PYOFa4WmfoT_Dc8joEFvNQkxhNDNJo9w/view?usp=drive_link)
+
 ---
 
 ## ⚙️ Automation & Tools
