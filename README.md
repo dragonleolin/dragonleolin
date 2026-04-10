@@ -44,7 +44,7 @@
 🎥 **Demo Video:**
 * [區塊鏈數據分析演示 (註冊/登入/升級)](https://drive.google.com/file/d/1xXaL4NRMT4G6DxVmeOopVNWQ8s06Tq4Q/view?usp=drive_link)
 
-### 2. 📈 Real-time Stock Notification System (股票推播與 AI 分析)
+### 2. 📈 Real-time Stock Notification System ( AI 分析股市系統)
 > **關鍵技術**: `Java Spring Boot` `Redis` `Telegram API` `OpenAI API` `Vue.js`
 
 針對股票市場設計的即時監控系統，讓使用者可以跟 AI 對話，並圖表化股價的變動。
