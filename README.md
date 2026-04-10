@@ -3,7 +3,7 @@
   <h3>Senior Java Developer | FinTech Experience | AI & Cloud Enthusiast</h3>
   
   <p>
-    擁有 5 年以上軟體開發經驗，核心技術為 <b>Java Backend (Spring Boot)</b>
+    擁有 6 年以上軟體開發經驗，核心技術為 <b>Java Backend (Spring Boot)</b>
     <br>
     目前負責 <b>台新銀行行動網銀</b> 系統開發，具備嚴謹的金融級資安規範與高可用性維護經驗
     <br>
@@ -33,12 +33,13 @@
 ## 🚀 Key Backend & AI Projects (核心後端與 AI 專案)
 
 ### 1. ⛓️ Blockchain Membership System (區塊鏈數據分析 APP)
-> **關鍵技術**: `Java Spring Boot` `Redis` `Flutter`
+> **關鍵技術**: `Java Spring Boot` `Redis` `Flutter` `Kafka`
 
 區塊鏈數據分析 APP
 * **功能亮點**：實作使用者註冊、登入驗證以及會員等級升級功能。
 * **設計方式**：這裡設計了一套評分模型，會即時解析原始數據，並計算出『趨勢』、『動能』、『波動』與『量能』四大維度，最後加權整合成一個**『綜合信心分數』**，這就是提供給用戶判斷市場趨勢的關鍵指標。
 * **技術實踐**： Python 爬蟲完成技術指標分析後，擔任 Producer 的角色，將數據打包成 JSON 格式發佈到 Kafka 的 Topic (ryoken.analysis.v1)。 使用 Kafka 的目的是為了讓爬蟲與後端服務 解耦 (Decoupling)，並提供緩衝機制，即使爬蟲送出大量數據，後端也能依照自己的節奏處理，會先把收到的數值存入 Redis 內。
+* **展示重點**：讓使用者可以註冊登入、會員升級、查看現在區塊鏈的市場趨勢，以及各種指數，也有推播功能
 
 🎥 **Demo Video:**
 * [區塊鏈數據分析演示 (註冊/登入/升級)](https://drive.google.com/file/d/1xXaL4NRMT4G6DxVmeOopVNWQ8s06Tq4Q/view?usp=drive_link)
@@ -51,6 +52,7 @@
 * **效能優化**：引入 **Redis** 進行查詢緩存（Cache），降低資料庫讀取壓力，並產生圖表顯示。
 * **AI 整合**：整合 LLM 模型，提供基本的個股 AI 趨勢分析建議。
 * **即時推播**：透過 Telegram Bot Webhook 實現即時股價警示通知。
+* **展示重點**：通過與 AI 互動可以找到想觀察的股票，查詢股票的資訊並查看圖表，還有能推播至 LINE 與 Telegram。
 
 🎥 **Demo Videos:**
 * [股票系統操作演示 & AI 機器人聊天功能](https://drive.google.com/file/d/1dxKZMmZFGS8JgeZMPoBk-7kyjmcG7PZF/view?usp=drive_link)
@@ -61,6 +63,7 @@
 
 * **安全機制**：後端實作 **Spring Security + JWT** 進行無狀態（Stateless）身分驗證。
 * **前端開發**：使用 Flutter 進行跨平台開發，展示全端交付能力。
+* **展示重點**：使用者可以新增自己的寵物並觀察寵物的資訊。
 * [Repo: Flutter Frontend](https://github.com/dragonleolin/PetApp_Flutter) / [Repo: Spring Boot Backend](https://github.com/dragonleolin/PetApp_JavaSpring)
 
 ---
@@ -74,9 +77,10 @@
 * **策略紀錄 (Strategy Management)**：提供使用者自定義交易策略、記錄持倉成本與設定停損停利目標。
 * **動態視覺化 (Dynamic Visualization)**：前端實作即時 ROI 計算與風險顏色標記，數據呈現一目了然。
 * **遊戲化風格 (Gamified UI)**：結合 Cyberpunk 視覺元素，打造沉浸式的戰情室操作體驗，展示前端切版與複雜資料綁定能力。
+* **展示重點**：使用者可以自定義進出場策略、記錄持倉成本，並設定嚴格的停損停利目標。
 
 🎥 **Demo Video / Repo:**
-* [交易中控台功能演示影片](https://drive.google.com/file/d/1zupVp4J6tyyQds9JMFiraF2vhCBwLXJ8/view?usp=drive_link)
+* [投資策略戰情室演示影片](https://drive.google.com/file/d/1zupVp4J6tyyQds9JMFiraF2vhCBwLXJ8/view?usp=drive_link)
 * [Code Repository](https://github.com/dragonleolin/trade-command-center)
 
 
@@ -86,30 +90,28 @@
 一個採用復古像素風格（Pixel Art）設計的財務追蹤工具，將枯燥的記帳遊戲化。
 * **資料庫創新**：整合 **Google Sheets API** 作為輕量級後端資料庫，實現 CRUD 操作。
 * **介面設計**：客製化復古介面，提供獨特的使用者體驗。
+* **展示重點**：使用者可以記錄股息，並看到資產的成長。
 
 🎥 **Demo Video:**
 * [復古風股息追蹤網頁演示](https://drive.google.com/file/d/1obnagIJde2HvxnOGBRBRXSH686ASi-KV/view?usp=drive_link)
-* [Live Demo Link](https://dragonleolin.github.io/dividend-record/)
+* [Code Repository](https://dragonleolin.github.io/dividend-record/)
 
 ### 6. 📚 E-Bookstore Member Portal (購書網站會員專區)
-> **關鍵技術**: `Web Development` `MVC Pattern`
-
-完整的電商會員功能實作。
-* **功能**：包含完整的會員註冊、資料修改、訂單查詢等功能流程。
-* **展示重點**：呈現清晰的前後端互動邏輯與使用者流程設計。
+> **關鍵技術**: React.js` `node.js` `MySQL`
+電商會員功能實作
+* **技術實踐**：完整會員系統，包刮會員的註冊、會員的圖片上傳、書籍的上架、我的最愛等等
+* **展示重點**：有註冊時用驗證碼、忘記密碼的補寄信件、會員可以把書加入收藏、還有就是FB粉專的機器人自動回覆功能等等。
 
 🎥 **Demo Video:**
 * [購書網站會員專區介紹](https://drive.google.com/file/d/19oZb6IkIkLsormotHFJTH4pvS1XBxcce/view)
 
-### 7. ⛓️ Blockchain Membership System (區塊鏈會員系統)
+### 7. ⛓️ Blockchain Membership System (區塊鏈智能合約)
 > **關鍵技術**: `React` `Web3.js` `Smart Contract`
-
-模擬去中心化應用 (DApp) 的會員機制。
-* **功能亮點**：實作使用者註冊、登入驗證以及會員等級升級功能。
 * **技術實踐**：前端 React 整合錢包（Wallet）互動，展示對 Web3 架構的理解。
+* **展示重點**：用畫面顯示智能合約並鏈結到 MetaMask 加密錢包，透過錢包內的虛擬貨幣去修改智能合約內容。
 
-🎥 **Demo Video:**
-* [區塊鏈系統演示 (註冊/登入/升級)](https://drive.google.com/file/d/1PYOFa4WmfoT_Dc8joEFvNQkxhNDNJo9w/view?usp=drive_link)
+🎥 **Demo Video:** 
+* [Live Demo Link](https://drive.google.com/file/d/1PYOFa4WmfoT_Dc8joEFvNQkxhNDNJo9w/view?usp=drive_link)
 
 ---
 
