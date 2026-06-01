@@ -51,11 +51,11 @@
 * **後端架構**：使用 Spring Boot 構建 RESTful API，串接台股即時查詢股價以及 KD 值。
 * **效能優化**：引入 **Redis** 進行查詢緩存（Cache），降低資料庫讀取壓力，並產生圖表顯示。
 * **AI 整合**：整合 LLM 模型，提供基本的個股 AI 趨勢分析建議。
-* **即時推播**：透過 Telegram Bot Webhook 實現即時股價警示通知。
+* **即時推播**：透過 LINE 通知實現 KD 高低檔即時股價警示通知以及 Telegram 的圖形顯示通知。
 * **展示重點**：通過與 AI 互動可以找到想觀察的股票，查詢股票的資訊並查看圖表，還有能推播至 LINE 與 Telegram。
 
 🎥 **Demo Videos:**
-* [股票系統操作演示 & AI 機器人聊天功能](https://drive.google.com/file/d/1dxKZMmZFGS8JgeZMPoBk-7kyjmcG7PZF/view?usp=drive_link)
+* [股票系統操作演示 & AI 機器人聊天功能](https://drive.google.com/file/d/1D955qOkx4gYwevzI85rlQHYzVtkrUVC-/view?usp=drive_link)
 * [Code Repo](https://github.com/dragonleolin/JavaSpring)
 
 ### 3. 📱 Full-Stack Pet Management App (跨平台寵物管理)
